@@ -8,7 +8,7 @@ titles:
 key: page-about
 ---
 
-I am a PhD student  at the Faulty of Information Technology, Monash University.
+I am a PhD student  at the [Faulty of Information Technology](https://www.monash.edu/it), Monash University.
 
 My research interest is in the field of **Blockchain** and **Trusted Execution Environment**. 
 
