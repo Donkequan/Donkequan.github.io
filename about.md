@@ -14,7 +14,7 @@ My research interest is in the field of **Blockchain** and **Trusted Execution E
 
 ## Education
 
-- **PhD** in [Information Technology](https://www.monash.edu.my/study/postgraduate-and-research/information-technology/phd) (under the supervision of [Dr. Shujie CUI](https://shujiecui.github.io/) and [Dr. Jiangshan YU](https://www.jiangshanyu.com/)), Monash University, Australia, 2023-2026
+- **PhD** in [Information Technology](https://www.monash.edu/it) (under the supervision of [Dr. Shujie CUI](https://shujiecui.github.io/) and [Dr. Jiangshan YU](https://www.jiangshanyu.com/)), Monash University, Australia, 2023-2026
 - **MRes** [Computer Science](https://www.xjtlu.edu.cn/en/study/masters/mres-computer-science) (under the supervision of [Dr. Jie ZHANG](https://www.xjtlu.edu.cn/en/departments/academic-departments/communications-and-networking/staff/jie-zhang01)), University of Liverpool, China, 2020-2022
 - **BSc** in [Information and Computing Science](https://www.xjtlu.edu.cn/en/study/undergraduate/information-and-computing-science), Xi'an Jiaotong-Liverpool University, China, 2015-2020
 
