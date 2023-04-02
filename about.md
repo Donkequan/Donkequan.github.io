@@ -21,7 +21,7 @@ My research interest is in the field of **Blockchain** and **Trusted Execution E
 ## Experience
 
 - **Research Assistant** @ Xi'an Jiaotong-Liverpool University, Jul. 2022 -- Mar. 2023
-- **Teaching Assistant** @ Xi'an Jiaotong-Liverpool University, Feb. 2021 -- Jun. 2022
+- **Teaching Assistant** @ Xi'an Jiaotong-Liverpool University, Sept. 2020 -- Jun. 2022
 - **Software Engineer Intern** @ Peking University Advanced Institute of Information Science and Technology, Jun. 2020 -- Sep. 2020
 - **Optional Course Lecturer** @ Xi'an Jiaotong-Liverpool University, Feb. 2021 -- Jun. 2021 & Feb. 2019 -- Jun. 2019
 
