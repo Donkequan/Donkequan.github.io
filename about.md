@@ -14,8 +14,8 @@ My research interest is in the field of **Blockchain** and **Trusted Execution E
 
 ## Education
 
-- **PhD** in [Information Technology](https://www.monash.edu/it) (under the supervision of [Dr. Shujie CUI](https://shujiecui.github.io/), [Dr. Jiangshan YU](https://www.jiangshanyu.com/), and [Prof. Joseph LIU](http://users.monash.edu.au/~kailiu/)), Monash University (QS 57), Australia, 2023-2026
-- **MRes** [Computer Science](https://www.xjtlu.edu.cn/en/study/masters/mres-computer-science) (under the supervision of [Dr. Jie ZHANG](https://www.xjtlu.edu.cn/en/departments/academic-departments/communications-and-networking/staff/jie-zhang01)), University of Liverpool (QS 190), China, 2020-2022
+- **PhD** in [Information Technology](https://www.monash.edu/it) (under the supervision of [Dr. Shujie CUI](https://shujiecui.github.io/), [Dr. Jiangshan YU](https://www.jiangshanyu.com/), and [Prof. Joseph LIU](http://users.monash.edu.au/~kailiu/)), Monash University, Australia, 2023-2026
+- **MRes** [Computer Science](https://www.xjtlu.edu.cn/en/study/masters/mres-computer-science) (under the supervision of [Dr. Jie ZHANG](https://www.xjtlu.edu.cn/en/departments/academic-departments/communications-and-networking/staff/jie-zhang01)), University of Liverpool, China, 2020-2022
 - **BSc** in [Information and Computing Science](https://www.xjtlu.edu.cn/en/study/undergraduate/information-and-computing-science), Xi'an Jiaotong-Liverpool University, China, 2015-2020
 
 ## Experience
