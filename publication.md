@@ -16,7 +16,7 @@ key: page-about
 
 - **D. Hou**, J. Ma, Z. Peng, J. Zhang, X. Zhu, ”Privacy-Preserving Educational Credentials Sharing based on
   Blockchain and Proxy Re-Encryption,” in the 2022 17th International Conference on Computer Science
-  and Education, Ningbo, China, Aug. 2022.
+  and Education, Ningbo, China, Aug. 2022. [10.1007/978-981-99-2443-1_10](https://doi.org/10.1007/978-981-99-2443-1_10)
 - **D. Hou**, S. Cheng, J. Zhang, Y. Dong, J. Ma, X. Zhu, KL. Man, ”A Highly Secure Authentication Module for
   Smart Door Lock with Temporary Key Function,” in the 2022 21th International Conference on Cyberworlds (CW),
   Kanazawa, Japan, Sept. 2022. [10.1109/CW55638.2022.00053](https://doi.org/10.1109/CW55638.2022.00053)
