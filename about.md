@@ -12,6 +12,9 @@ I am a PhD student  at the [Faulty of Information Technology](https://www.monash
 
 My research interest is in the field of **Blockchain** and **Trusted Execution Environment**. 
 
+My name in Chinese is 侯东坤.
+
+
 ## Education
 
 - **PhD** in [Information Technology](https://www.monash.edu/it) (under the supervision of [Dr. Shujie CUI](https://shujiecui.github.io/), [Dr. Jiangshan YU](https://www.jiangshanyu.com/), and [Prof. Joseph LIU](http://users.monash.edu.au/~kailiu/)), Monash University, Australia, 2023-2026
