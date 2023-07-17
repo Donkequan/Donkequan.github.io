@@ -23,6 +23,7 @@ My name in Chinese is 侯东坤.
 
 ## Experience
 
+- **Teaching Associate** @ Monash University, Jul. 2023 -- Nov. 2023
 - **Research Assistant** @ Xi'an Jiaotong-Liverpool University, Jul. 2022 -- Mar. 2023
 - **Teaching Assistant** @ Xi'an Jiaotong-Liverpool University, Sep. 2020 -- Jun. 2022
 - **Software Engineer Intern** @ Peking University Advanced Institute of Information Science and Technology, Jun. 2020 -- Sep. 2020
