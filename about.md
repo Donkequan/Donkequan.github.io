@@ -31,6 +31,7 @@ My name in Chinese is 侯东坤.
 
 ## Honors and Awards
 
+- **Faculty of Information Technology Research Scholarship**, Monash University, 2023
 - **Second Prize**, National Cryptography Popular Science Competition, China, 2022 [(view)](https://hdk-certificate.oss-cn-beijing.aliyuncs.com/Cryptography%20Popular%20Science%20Competition.pdf)
 - **Second Prize**, The Java Contest of Lan Qiao Cup in Postgraduate Group, Jiangsu, 2021 [(view)](https://hdk-certificate.oss-cn-beijing.aliyuncs.com/lanqiao.pdf)
 - **Innovation Award**, "ChainValleyCup" Blockchain Application Competition, China, 2020 [(view)](https://hdk-certificate.oss-cn-beijing.aliyuncs.com/ChainValleyCup.pdf)
