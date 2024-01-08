@@ -27,7 +27,7 @@ My name in Chinese is 侯东坤.
 - **Research Assistant** @ Xi'an Jiaotong-Liverpool University, Jul. 2022 -- Mar. 2023
 - **Teaching Assistant** @ Xi'an Jiaotong-Liverpool University, Sep. 2020 -- Jun. 2022
 - **Software Engineer Intern** @ Peking University Advanced Institute of Information Science and Technology, Jun. 2020 -- Sep. 2020
-- **Optional Course Lecturer** (<font color="red"> python </font>) @ Xi'an Jiaotong-Liverpool University, Feb. 2021 -- Jun. 2021 & Feb. 2019 -- Jun. 2019
+- **Optional Course Lecturer** (<font color="black">[python](https://hdk-certificate.oss-cn-beijing.aliyuncs.com/Python%20Certificate.pdf)</font>) @ Xi'an Jiaotong-Liverpool University, Feb. 2021 -- Jun. 2021 & Feb. 2019 -- Jun. 2019
 
 ## Honors and Awards
 
