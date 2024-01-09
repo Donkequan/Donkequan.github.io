@@ -8,10 +8,6 @@ titles:
 key: page-about
 ---
 
-## Journal
-
-- Under review
-
 ## Conference
 
 - **D. Hou**, J. Ma, Z. Peng, J. Zhang, X. Zhu, ”Privacy-Preserving Educational Credentials Sharing based on
