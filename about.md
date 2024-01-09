@@ -35,7 +35,7 @@ My name in Chinese is 侯东坤.
 - **Best Paper Award Nomination**, ICCSE, 2022 [(view)](https://hdk-certificate.oss-cn-beijing.aliyuncs.com/iccse2022.pdf)
 - **Second Prize**, National Cryptography Popular Science Competition, China, 2022 [(view)](https://hdk-certificate.oss-cn-beijing.aliyuncs.com/Cryptography%20Popular%20Science%20Competition.pdf)
 - **Second Prize**, The Java Contest of Lan Qiao Cup in Postgraduate Group, Jiangsu, 2021 [(view)](https://hdk-certificate.oss-cn-beijing.aliyuncs.com/lanqiao.pdf)
-- **Innovation Award**, "ChainValleyCup" Blockchain Application Competition, China, 2020 [(view)](./dos/ChainValleyCup.pdf)
+- **Innovation Award**, "ChainValleyCup" Blockchain Application Competition, China, 2020 [(view)](dos/ChainValleyCup.pdf)
 - **Postgraduate Entry Scholarship**, Xi'an Jiaotong-Liverpool University, 2020
 - **National Encouragement Scholarship**, China, 2019 [(view)](https://hdk-certificate.oss-cn-beijing.aliyuncs.com/Encouragement%20Scholarship.pdf)
 - **University Academic Excellence Award**, Xi'an Jiaotong-Liverpool University, 2019
