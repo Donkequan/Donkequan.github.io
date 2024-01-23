@@ -9,12 +9,12 @@ key: page-about
 ---
 
 ## Conference
-
-- **D. Hou**, J. Ma, Z. Peng, J. Zhang, X. Zhu, ”Privacy-Preserving Educational Credentials Sharing based on
-  Blockchain and Proxy Re-Encryption,” in the 2022 17th International Conference on Computer Science
+- **D. Hou** and J. Zhang, "BFRecSys: A Blockchain-based Federated Matrix Factorization for Recommendation Systems," 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023. [10.1109/BigData59044.2023.10386918](https://doi.org/10.1109/BigData59044.2023.10386918)
+- **D. Hou**, J. Ma, Z. Peng, J. Zhang, X. Zhu, "Privacy-Preserving Educational Credentials Sharing based on
+  Blockchain and Proxy Re-Encryption," in the 2022 17th International Conference on Computer Science
   and Education, Ningbo, China, Aug. 2022. [10.1007/978-981-99-2443-1_10](https://doi.org/10.1007/978-981-99-2443-1_10)
-- **D. Hou**, S. Cheng, J. Zhang, Y. Dong, J. Ma, X. Zhu, KL. Man, ”A Highly Secure Authentication Module for
-  Smart Door Lock with Temporary Key Function,” in the 2022 21th International Conference on Cyberworlds (CW),
+- **D. Hou**, S. Cheng, J. Zhang, Y. Dong, J. Ma, X. Zhu, KL. Man, "A Highly Secure Authentication Module for
+  Smart Door Lock with Temporary Key Function," in the 2022 21th International Conference on Cyberworlds (CW),
   Kanazawa, Japan, Sept. 2022. [10.1109/CW55638.2022.00053](https://doi.org/10.1109/CW55638.2022.00053)
 - **D. Hou**, J. Zhang, S. Huang, J. Ma, X. Zhu, ”Privacy-Preserving Energy Trading Using Blockchain and Zero
   Knowledge Proof,” in 2022 IEEE International Conference on Blockchain (Blockchain-2022), Espoo, Finland,
