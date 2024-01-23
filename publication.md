@@ -9,7 +9,7 @@ key: page-about
 ---
 
 ## Conference
-- **D. Hou** and J. Zhang, "BFRecSys: A Blockchain-based Federated Matrix Factorization for Recommendation Systems," 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023. [10.1109/BigData59044.2023.10386918](https://doi.org/10.1109/BigData59044.2023.10386918)
+- **D. Hou** and J. Zhang, "BFRecSys: A Blockchain-based Federated Matrix Factorization for Recommendation Systems," 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, Dec. 2023. [10.1109/BigData59044.2023.10386918](https://doi.org/10.1109/BigData59044.2023.10386918)
 - **D. Hou**, J. Ma, Z. Peng, J. Zhang, X. Zhu, "Privacy-Preserving Educational Credentials Sharing based on
   Blockchain and Proxy Re-Encryption," in the 2022 17th International Conference on Computer Science
   and Education, Ningbo, China, Aug. 2022. [10.1007/978-981-99-2443-1_10](https://doi.org/10.1007/978-981-99-2443-1_10)
@@ -24,11 +24,11 @@ key: page-about
   Algorithms and Programming (PAAP), Xi’an, China, Dec. 2021. [10.1109/PAAP54281.2021.9720452](https://doi.org/10.1109/PAAP54281.2021.9720452)
 - **D. Hou**, J. Zhang, KL. Man, J. Ma and Z. Peng, ”A Systematic Literature Review of Blockchain-based Federated
   Learning: Architectures, Applications and Issues,” in 2021 2nd Information Communication Technologies
-  Conference (ICTC), Nanjing, China, May 2021, pp. 302-307. [10.1109/ICTC51749.2021.9441499](https://doi.org/10.1109/ICTC51749.2021.9441499)
+  Conference (ICTC), Nanjing, China, May 2021. [10.1109/ICTC51749.2021.9441499](https://doi.org/10.1109/ICTC51749.2021.9441499)
 - **D. Hou**, J. Ma, S. Huang, J. Zhang and X. Zhu, ”Classification of Defective Photovoltaic Modules in ImageNet-
   Trained Networks Using Transfer Learning,” in 2021 IEEE 12th Energy Conversion Congress & Exposition-Asia
-  (ECCE-Asia), Singapore, May 2021, pp. 2126-2131. [10.1109/ECCE-Asia49820.2021.9479376](https://doi.org/10.1109/ECCE-Asia49820.2021.9479376)
+  (ECCE-Asia), Singapore, May 2021. [10.1109/ECCE-Asia49820.2021.9479376](https://doi.org/10.1109/ECCE-Asia49820.2021.9479376)
 - **D. Hou**, J. Zhang and KL. Man, ”Enhancing the Security of Numeric Comparison Secure Simple Pairing in
   Bluetooth 5.0,” in 2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and
-  Communications (TrustCom), Guangzhou, China, Dec. 2020, pp. 1622-1629. [10.1109/TrustCom50675.2020.00224](https://doi.org/10.1109/TrustCom50675.2020.00224)
+  Communications (TrustCom), Guangzhou, China, Dec. 2020. [10.1109/TrustCom50675.2020.00224](https://doi.org/10.1109/TrustCom50675.2020.00224)
 
