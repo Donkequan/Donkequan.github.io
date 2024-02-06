@@ -10,7 +10,7 @@ key: page-about
 
 I am a PhD student  at the [Faulty of Information Technology](https://www.monash.edu/it), Monash University.
 
-My research interest is in the field of **Blockchain** and **Trusted Execution Environment**. 
+My research interest is in the field of **Blockchain application and protocol** . 
 
 My name in Chinese is 侯东坤.
 
