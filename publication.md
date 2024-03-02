@@ -21,8 +21,8 @@ key: page-about
   Knowledge Proof,” in *2022 IEEE International Conference on Blockchain (Blockchain-2022)*, Espoo, Finland,
   Aug. 2022. [10.1109/Blockchain55522.2022.00064](https://doi.org/10.1109/Blockchain55522.2022.00064)
 - **D. Hou**, J. Zhang, J. Ma, X. Zhu and KL. Man, ”Application of Differential Privacy for Collaborative Filtering
-  based Recommendation System: A Survey,” in *2021 12th International Symposium on Parallel Architectures*,
-  Algorithms and Programming (PAAP), Xi’an, China, Dec. 2021. [10.1109/PAAP54281.2021.9720452](https://doi.org/10.1109/PAAP54281.2021.9720452)
+  based Recommendation System: A Survey,” in *2021 12th International Symposium on Parallel Architectures,
+  Algorithms and Programming (PAAP)*, Xi’an, China, Dec. 2021. [10.1109/PAAP54281.2021.9720452](https://doi.org/10.1109/PAAP54281.2021.9720452)
 - **D. Hou**, J. Zhang, KL. Man, J. Ma and Z. Peng, ”A Systematic Literature Review of Blockchain-based Federated
   Learning: Architectures, Applications and Issues,” in *2021 2nd Information Communication Technologies
   Conference (ICTC)*, Nanjing, China, May 2021. [10.1109/ICTC51749.2021.9441499](https://doi.org/10.1109/ICTC51749.2021.9441499)
