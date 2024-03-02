@@ -9,7 +9,7 @@ key: page-about
 ---
 
 ## Conference
-- **D. Hou**, Z. Peng and J. Zhang, "Peer-to-Peer Energy Trading with Privacy and Fair Exchange," in *2024 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)*, Dublin, Ireland, May 2024.
+- **D. Hou**, Z. Peng and J. Zhang, "Peer-to-Peer Energy Trading with Privacy and Fair Exchange," in *2024 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)*, Dublin, Ireland, May 2024. Accepted
 - **D. Hou** and J. Zhang, "BFRecSys: A Blockchain-based Federated Matrix Factorization for Recommendation Systems," in *2023 IEEE International Conference on Big Data (BigData)*, Sorrento, Italy, Dec. 2023. [10.1109/BigData59044.2023.10386918](https://doi.org/10.1109/BigData59044.2023.10386918)
 - **D. Hou**, J. Ma, Z. Peng, J. Zhang, X. Zhu, "Privacy-Preserving Educational Credentials Sharing based on
   Blockchain and Proxy Re-Encryption," in *2022 17th International Conference on Computer Science
