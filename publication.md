@@ -18,7 +18,7 @@ key: page-about
   Smart Door Lock with Temporary Key Function," in *2022 21th International Conference on Cyberworlds (CW)*,
   Kanazawa, Japan, Sept. 2022. [10.1109/CW55638.2022.00053](https://doi.org/10.1109/CW55638.2022.00053)
 - **D. Hou**, J. Zhang, S. Huang, J. Ma, X. Zhu, ”Privacy-Preserving Energy Trading Using Blockchain and Zero
-  Knowledge Proof,” in the *2022 IEEE International Conference on Blockchain (Blockchain-2022)*, Espoo, Finland,
+  Knowledge Proof,” in *2022 IEEE International Conference on Blockchain (Blockchain-2022)*, Espoo, Finland,
   Aug. 2022. [10.1109/Blockchain55522.2022.00064](https://doi.org/10.1109/Blockchain55522.2022.00064)
 - **D. Hou**, J. Zhang, J. Ma, X. Zhu and KL. Man, ”Application of Differential Privacy for Collaborative Filtering
   based Recommendation System: A Survey,” in *2021 12th International Symposium on Parallel Architectures*,
