@@ -17,8 +17,8 @@ My name in Chinese is 侯东坤.
 
 ## Education
 
-- **PhD** in [Information Technology](https://www.monash.edu/it) (under the supervision of [Dr Shujie CUI](https://shujiecui.github.io/), [Assoc Prof Jiangshan YU](https://www.jiangshanyu.com/), and [Prof Joseph LIU](http://users.monash.edu.au/~kailiu/), [Assoc Prof Tsz Hon Yuen](https://thyuen.github.io/)), Monash University, Australia, 2023-Now
-- **MRes** [Computer Science](https://www.xjtlu.edu.cn/en/study/masters/mres-computer-science) (under the supervision of [Assoc Prof Jie ZHANG](https://www.xjtlu.edu.cn/en/departments/academic-departments/communications-and-networking/staff/jie-zhang01)), University of Liverpool, China, 2020-2022
+- **PhD** in [Information Technology](https://www.monash.edu/it) (under the supervision of [Dr. Shujie CUI](https://shujiecui.github.io/), [Assoc. Prof. Jiangshan YU](https://www.jiangshanyu.com/), and [Prof. Joseph LIU](http://users.monash.edu.au/~kailiu/), [Assoc. Prof. Tsz Hon YUEN](https://thyuen.github.io/)), Monash University, Australia, 2023-Now
+- **MRes** [Computer Science](https://www.xjtlu.edu.cn/en/study/masters/mres-computer-science) (under the supervision of [Assoc. Prof. Jie ZHANG](https://scholar.xjtlu.edu.cn/en/persons/JieZhang01)), University of Liverpool, China, 2020-2022
 - **BSc** in [Information and Computing Science](https://www.xjtlu.edu.cn/en/study/undergraduate/information-and-computing-science), Xi'an Jiaotong-Liverpool University, China, 2015-2020
 
 ## Experience
