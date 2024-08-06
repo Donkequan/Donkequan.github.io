@@ -18,12 +18,12 @@ My name in Chinese is 侯东坤.
 ## Education
 
 - **PhD** in [Information Technology](https://www.monash.edu/it) (under the supervision of [Dr. Shujie CUI](https://shujiecui.github.io/), [A/Prof. Jiangshan YU](https://www.jiangshanyu.com/), [Prof. Joseph LIU](http://users.monash.edu.au/~kailiu/), and [A/Prof. Tsz Hon YUEN](https://thyuen.github.io/)), Monash University, Australia, 2023-Now
-- **MRes** [Computer Science](https://www.xjtlu.edu.cn/en/study/masters/mres-computer-science) (under the supervision of [A/Prof. Jie ZHANG](https://scholar.xjtlu.edu.cn/en/persons/JieZhang01)), University of Liverpool, China, 2020-2022
-- **BSc** in [Information and Computing Science](https://www.xjtlu.edu.cn/en/study/undergraduate/information-and-computing-science), Xi'an Jiaotong-Liverpool University, China, 2015-2020
+- **MRes** [Computer Science](https://www.xjtlu.edu.cn/en/study/masters/mres-computer-science) (Degree awarded with Distinction by the University of Liverpool, under the supervision of [A/Prof. Jie ZHANG](https://scholar.xjtlu.edu.cn/en/persons/JieZhang01)), Xi'an Jiaotong-Liverpool University, China, 2020-2022
+- **BSc** in [Information and Computing Science](https://www.xjtlu.edu.cn/en/study/undergraduate/information-and-computing-science) (First Class Honours awarded by the University of Liverpool), Xi'an Jiaotong-Liverpool University, China, 2015-2020
 
 ## Experience
 
-- **Teaching Associate** @ Monash University, Jul. 2023 -- Now
+- **Teaching Associate** @ Monash University, Jul. 2023 -- June. 2024
 - **Research Assistant** @ Xi'an Jiaotong-Liverpool University, Jul. 2022 -- Mar. 2023
 - **Teaching Assistant** @ Xi'an Jiaotong-Liverpool University, Sep. 2020 -- Jun. 2022
 - **Software Engineer Intern** @ Peking University Advanced Institute of Information Science and Technology, Jun. 2020 -- Sep. 2020
