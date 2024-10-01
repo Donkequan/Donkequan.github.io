@@ -22,7 +22,7 @@ My name in Chinese is 侯东坤.
 - **BSc** in [Information and Computing Science](https://www.xjtlu.edu.cn/en/study/undergraduate/information-and-computing-science) (First Class Honours awarded by the University of Liverpool), Xi'an Jiaotong-Liverpool University, China, 2015-2020
 
 ## Experience
-- **Visiting Student** @ University of Sydney, Sept. 2024 -- Oct. 2024
+- **Visiting PhD Student** @ University of Sydney, Sept. 2024 -- Oct. 2024
 - **Teaching Associate** @ Monash University, Jul. 2023 -- June. 2024
 - **Research Assistant** @ Xi'an Jiaotong-Liverpool University, Jul. 2022 -- Mar. 2023
 - **Teaching Assistant** @ Xi'an Jiaotong-Liverpool University, Sep. 2020 -- Jun. 2022
