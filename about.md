@@ -17,7 +17,7 @@ My name in Chinese is 侯东坤.
 
 ## Education
 
-- **PhD** in [Information Technology](https://www.monash.edu/it) (under the supervision of [Dr. Shujie CUI](https://shujiecui.github.io/), [A/Prof. Jiangshan YU](https://www.jiangshanyu.com/), [Prof. Joseph LIU](http://users.monash.edu.au/~kailiu/), and [A/Prof. Tsz Hon YUEN](https://thyuen.github.io/)), Monash University, Australia, 2023-Now
+- **PhD** in [Information Technology](https://www.monash.edu/it) (under the supervision of [Dr. Shujie CUI](https://shujiecui.github.io/), [A/Prof. Jiangshan YU](https://jiangshanyu.github.io/), [Prof. Joseph LIU](http://users.monash.edu.au/~kailiu/), and [A/Prof. Tsz Hon YUEN](https://thyuen.github.io/)), Monash University, Australia, 2023-Now
 - **MRes** [Computer Science](https://www.xjtlu.edu.cn/en/study/masters/mres-computer-science) (Degree awarded with Distinction by the University of Liverpool, under the supervision of [A/Prof. Jie ZHANG](https://scholar.xjtlu.edu.cn/en/persons/JieZhang01)), Xi'an Jiaotong-Liverpool University, China, 2020-2022
 - **BSc** in [Information and Computing Science](https://www.xjtlu.edu.cn/en/study/undergraduate/information-and-computing-science) (First Class Honours awarded by the University of Liverpool), Xi'an Jiaotong-Liverpool University, China, 2015-2020
 
