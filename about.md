@@ -12,9 +12,6 @@ I am a PhD candidate at the [Faulty of Information Technology](https://www.monas
 
 My research interest is in the field of **Blockchain application and protocol** . 
 
-My name in Chinese is 侯东坤.
-
-
 ## Education
 
 - **PhD** in [Information Technology](https://www.monash.edu/it) (under the supervision of [Dr. Shujie CUI](https://shujiecui.github.io/), [A/Prof. Jiangshan YU](https://jiangshanyu.github.io/), [Prof. Joseph LIU](http://users.monash.edu.au/~kailiu/), and [A/Prof. Tsz Hon YUEN](https://thyuen.github.io/)), Monash University, Australia, 2023-Now
