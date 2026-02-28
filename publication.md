@@ -33,3 +33,5 @@ key: page-about
   Bluetooth 5.0,” in *2020 IEEE 19th International Conference on Trust, Security and Privacy in Computing and
   Communications (TrustCom)*, Guangzhou, China, Dec. 2020. [10.1109/TrustCom50675.2020.00224](https://doi.org/10.1109/TrustCom50675.2020.00224)
 
+## Journal
+- **D. Hou**, J. Zhang, "Blockchain Assisted Cross-Domain Key Management for Seaminglessly Secure Metaverse," in *Blockchain: Research and Applications*, (Accepted)
