@@ -34,4 +34,4 @@ key: page-about
   Communications (TrustCom)*, Guangzhou, China, Dec. 2020. [10.1109/TrustCom50675.2020.00224](https://doi.org/10.1109/TrustCom50675.2020.00224)
 
 ## Journal
-- **D. Hou**, J. Zhang, "Blockchain Assisted Cross-Domain Key Management for Seaminglessly Secure Metaverse," in *Blockchain: Research and Applications*, (Accepted)
+- **D. Hou**, J. Zhang, "Blockchain Assisted Cross-Domain Key Management for Seaminglessly Secure Metaverse," in *Blockchain: Research and Applications*, Mar. 2026. [10.1016/j.bcra.2026.100460](https://doi.org/10.1016/j.bcra.2026.100460)
