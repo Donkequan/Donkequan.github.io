@@ -9,7 +9,7 @@ key: page-about
 ---
 
 ## Conference
-- **D. Hou**, Y. Zhang, S. Cui, T.H. Yuen, J.K. Liu, and J. Yu, "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps," in *the 2026 IEEE International Conference on Distributed Computing Systems (ICDCS)*, Seoul, South Korea, June 2026. 
+- **D. Hou**, Y. Zhang, S. Cui, T.H. Yuen, J.K. Liu, and J. Yu, "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps," in *the 2026 IEEE International Conference on Distributed Computing Systems (ICDCS)*, Seoul, South Korea, June 2026. [https://eprint.iacr.org/2026/1253](https://eprint.iacr.org/2026/1253)
 - **D. Hou**, Y. Chen, S. Cui, T.H. Yuen, J.K. Liu, and J. Yu, "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attacks," in *the 2026 European Symposium on Research in Computer Security (ESORICS)*, Rome, Italy, Sept. 2026. [https://eprint.iacr.org/2026/1252](https://eprint.iacr.org/2026/1252)
 - Y. Chen, T.H. Yuen, **D. Hou**,  J. Xu,  J.K. Liu, W. Yang, and J. Yu, "SuccinCT: Succinct Confidential Transaction for Miner Privacy," in *the 2026 European Symposium on Research in Computer Security (ESORICS)*, Rome, Italy, Sept. 2026. 
 - **D. Hou**, J. Zhang, S. Cui, and J.K. Liu, "Peer-to-Peer Energy Trading with Privacy and Fair Exchange," in *the 2024 IEEE International Conference on Blockchain (Blockchain-2024)*, Copenhagen, Denmark, Aug. 2024. [10.1109/Blockchain62396.2024.00031](https://doi.org/10.1109/Blockchain62396.2024.00031)
